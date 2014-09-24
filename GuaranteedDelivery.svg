@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1553"
+   height="958"
+   id="svg25199"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="MessageFilter.svg">
+  <defs
+     id="defs25201">
+    <linearGradient
+       id="gradient1"
+       x1="11349"
+       y1="4094"
+       x2="11349"
+       y2="4318"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(0,0,0)"
+         id="stop23918" />
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(3,3,3)"
+         id="stop23920" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(3,3,3)"
+         id="stop23922" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(7,7,7)"
+         id="stop23924" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(7,7,7)"
+         id="stop23926" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(11,11,11)"
+         id="stop23928" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(11,11,11)"
+         id="stop23930" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(15,15,15)"
+         id="stop23932" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(15,15,15)"
+         id="stop23934" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(19,19,19)"
+         id="stop23936" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(19,19,19)"
+         id="stop23938" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop23940" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop23942" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(27,27,27)"
+         id="stop23944" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(27,27,27)"
+         id="stop23946" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(31,31,31)"
+         id="stop23948" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(31,31,31)"
+         id="stop23950" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop23952" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop23954" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(39,39,39)"
+         id="stop23956" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(39,39,39)"
+         id="stop23958" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop23960" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop23962" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(47,47,47)"
+         id="stop23964" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(47,47,47)"
+         id="stop23966" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(51,51,51)"
+         id="stop23968" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(51,51,51)"
+         id="stop23970" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(55,55,55)"
+         id="stop23972" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(55,55,55)"
+         id="stop23974" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(59,59,59)"
+         id="stop23976" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(59,59,59)"
+         id="stop23978" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(63,63,63)"
+         id="stop23980" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(63,63,63)"
+         id="stop23982" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(67,67,67)"
+         id="stop23984" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(67,67,67)"
+         id="stop23986" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(71,71,71)"
+         id="stop23988" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(71,71,71)"
+         id="stop23990" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(75,75,75)"
+         id="stop23992" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(75,75,75)"
+         id="stop23994" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop23996" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop23998" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24000" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24002" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24004" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24006" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24008" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24010" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24012" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24014" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24016" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24018" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24020" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24022" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24024" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24026" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24028" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24030" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24032" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24034" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24036" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24038" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24040" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24042" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24044" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24046" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24048" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24050" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24052" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24054" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24056" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24058" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24060" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24062" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24064" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24066" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24068" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24070" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24072" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24074" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24076" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24078" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24080" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24082" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24084" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24086" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24088" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24090" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24092" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24094" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24096" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24098" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24100" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24102" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24104" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24106" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24108" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24110" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24112" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24114" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24116" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24118" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24120" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24122" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24124" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24126" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24128" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24130" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24132" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24134" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24136" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24138" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24140" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24142" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24144" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24146" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24148" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24150" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24152" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24154" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24156" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24158" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24160" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24162" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24164" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24166" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24168" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24170" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(255,255,255)"
+         id="stop24172" />
+    </linearGradient>
+    <linearGradient
+       id="gradient2"
+       x1="11491"
+       y1="4094"
+       x2="11491"
+       y2="4318"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(0,0,0)"
+         id="stop24187" />
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(3,3,3)"
+         id="stop24189" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(3,3,3)"
+         id="stop24191" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(7,7,7)"
+         id="stop24193" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(7,7,7)"
+         id="stop24195" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(11,11,11)"
+         id="stop24197" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(11,11,11)"
+         id="stop24199" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(15,15,15)"
+         id="stop24201" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(15,15,15)"
+         id="stop24203" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(19,19,19)"
+         id="stop24205" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(19,19,19)"
+         id="stop24207" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop24209" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop24211" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(27,27,27)"
+         id="stop24213" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(27,27,27)"
+         id="stop24215" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(31,31,31)"
+         id="stop24217" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(31,31,31)"
+         id="stop24219" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop24221" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop24223" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(39,39,39)"
+         id="stop24225" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(39,39,39)"
+         id="stop24227" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop24229" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop24231" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(47,47,47)"
+         id="stop24233" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(47,47,47)"
+         id="stop24235" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(51,51,51)"
+         id="stop24237" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(51,51,51)"
+         id="stop24239" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(55,55,55)"
+         id="stop24241" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(55,55,55)"
+         id="stop24243" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(59,59,59)"
+         id="stop24245" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(59,59,59)"
+         id="stop24247" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(63,63,63)"
+         id="stop24249" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(63,63,63)"
+         id="stop24251" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(67,67,67)"
+         id="stop24253" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(67,67,67)"
+         id="stop24255" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(71,71,71)"
+         id="stop24257" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(71,71,71)"
+         id="stop24259" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(75,75,75)"
+         id="stop24261" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(75,75,75)"
+         id="stop24263" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop24265" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop24267" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24269" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24271" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24273" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24275" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24277" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24279" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24281" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24283" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24285" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24287" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24289" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24291" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24293" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24295" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24297" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24299" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24301" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24303" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24305" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24307" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24309" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24311" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24313" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24315" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24317" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24319" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24321" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24323" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24325" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24327" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24329" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24331" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24333" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24335" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24337" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24339" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24341" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24343" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24345" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24347" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24349" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24351" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24353" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24355" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24357" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24359" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24361" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24363" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24365" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24367" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24369" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24371" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24373" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24375" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24377" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24379" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24381" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24383" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24385" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24387" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24389" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24391" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24393" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24395" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24397" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24399" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24401" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24403" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24405" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24407" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24409" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24411" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24413" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24415" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24417" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24419" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24421" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24423" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24425" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24427" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24429" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24431" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24433" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24435" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24437" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24439" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(255,255,255)"
+         id="stop24441" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="165.71963"
+     inkscape:cy="645.2115"
+     inkscape:document-units="px"
+     inkscape:current-layer="g23911"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata25204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2905.5599,-692.0156)">
+    <g
+       transform="translate(-4829.3214,-1629.1735)"
+       class="Group"
+       id="g23851">
+      <g
+         class="com.sun.star.drawing.CustomShape"
+         id="g23909">
+        <g
+           id="g23911">
+          <g
+             transform="translate(6055.3813,-7683.3109)"
+             class="Group"
+             id="g16553">
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16555">
+              <g
+                 id="g16557">
+                <path
+                   style="fill:#ccff99;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 1680,10962 1552,0 0,-957 -1552,0 0,957 z"
+                   id="path16559" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 1680,10962 1552,0 0,-957 -1552,0 0,957"
+                   id="path16561" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g16563">
+              <g
+                 id="g16565">
+                <path
+                   style="fill:none;stroke:#8d8d8d"
+                   inkscape:connector-curvature="0"
+                   d="m 1918,10304 1076,0"
+                   id="path16567" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16569">
+              <g
+                 id="g16571">
+                <path
+                   style="fill:#8d8d8d;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2904,10347 0,-88 90,44 -90,44 z"
+                   id="path16573" />
+                <path
+                   style="fill:none;stroke:#8d8d8d"
+                   inkscape:connector-curvature="0"
+                   d="m 2904,10347 0,-88 90,44 -90,44"
+                   id="path16575" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16577">
+              <g
+                 id="g16579">
+                <path
+                   style="fill:none;stroke:#8d8d8d"
+                   inkscape:connector-curvature="0"
+                   d="m 2994,10303 -90,44 0,-88 90,44"
+                   id="path16581" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16583">
+              <g
+                 id="g16585">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -357,0 0,282 357,-282 z"
+                   id="path16587" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -357,0 0,282 357,-282"
+                   id="path16589" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16591">
+              <g
+                 id="g16593">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -357,282 34,27 323,-309 z"
+                   id="path16595" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -357,282 34,27 323,-309"
+                   id="path16597" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16599">
+              <g
+                 id="g16601">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -324,309 90,19 234,-328 z"
+                   id="path16603" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -324,309 90,19 234,-328"
+                   id="path16605" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16607">
+              <g
+                 id="g16609">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -233,328 109,0 124,-328 z"
+                   id="path16611" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -233,328 109,0 124,-328"
+                   id="path16613" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16615">
+              <g
+                 id="g16617">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -124,328 90,-19 34,-309 z"
+                   id="path16619" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -124,328 90,-19 34,-309"
+                   id="path16621" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16623">
+              <g
+                 id="g16625">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -34,309 34,-27 0,-282 z"
+                   id="path16627" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -34,309 34,-27 0,-282"
+                   id="path16629" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16631">
+              <g
+                 id="g16633">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10764 0,-282 -357,0 0,282 13,19 40,14 56,11 70,4 69,-4 57,-11 40,-14 12,-19"
+                   id="path16635" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16637">
+              <g
+                 id="g16639">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -91,-23 -109,0 200,23 z"
+                   id="path16641" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -91,-23 -109,0 200,23"
+                   id="path16643" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16645">
+              <g
+                 id="g16647">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -200,-23 -90,23 290,0 z"
+                   id="path16649" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -200,-23 -90,23 290,0"
+                   id="path16651" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16653">
+              <g
+                 id="g16655">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -290,0 -34,34 324,-34 z"
+                   id="path16657" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -290,0 -34,34 324,-34"
+                   id="path16659" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16661">
+              <g
+                 id="g16663">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -324,34 34,35 290,-69 z"
+                   id="path16665" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -324,34 34,35 290,-69"
+                   id="path16667" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16669">
+              <g
+                 id="g16671">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -290,69 90,21 200,-90 z"
+                   id="path16673" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -290,69 90,21 200,-90"
+                   id="path16675" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16677">
+              <g
+                 id="g16679">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -200,90 109,0 91,-90 z"
+                   id="path16681" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2602,10449 -200,90 109,0 91,-90"
+                   id="path16683" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16685">
+              <g
+                 id="g16687">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -90,90 90,-21 0,-69 z"
+                   id="path16689" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 -90,90 90,-21 0,-69"
+                   id="path16691" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16693">
+              <g
+                 id="g16695">
+                <path
+                   style="fill:#b3b3b3;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 0,69 34,-35 -34,-34 z"
+                   id="path16697" />
+                <path
+                   style="fill:none;stroke:#b3b3b3"
+                   inkscape:connector-curvature="0"
+                   d="m 2601,10449 0,69 34,-35 -34,-34"
+                   id="path16699" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g16701">
+              <g
+                 id="g16703">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 2635,10482 -12,-23 -40,-19 -57,-13 -69,-4 -70,4 -56,13 -40,19 -13,23 13,23 40,19 56,15 70,4 69,-4 57,-15 40,-19 12,-23"
+                   id="path16705" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
