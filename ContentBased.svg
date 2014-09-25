@@ -1,0 +1,2577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1553"
+   height="958"
+   id="svg25199"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="CompetingConsumers.svg">
+  <defs
+     id="defs25201">
+    <linearGradient
+       id="gradient1"
+       x1="11349"
+       y1="4094"
+       x2="11349"
+       y2="4318"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(0,0,0)"
+         id="stop23918" />
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(3,3,3)"
+         id="stop23920" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(3,3,3)"
+         id="stop23922" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(7,7,7)"
+         id="stop23924" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(7,7,7)"
+         id="stop23926" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(11,11,11)"
+         id="stop23928" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(11,11,11)"
+         id="stop23930" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(15,15,15)"
+         id="stop23932" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(15,15,15)"
+         id="stop23934" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(19,19,19)"
+         id="stop23936" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(19,19,19)"
+         id="stop23938" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop23940" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop23942" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(27,27,27)"
+         id="stop23944" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(27,27,27)"
+         id="stop23946" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(31,31,31)"
+         id="stop23948" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(31,31,31)"
+         id="stop23950" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop23952" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop23954" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(39,39,39)"
+         id="stop23956" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(39,39,39)"
+         id="stop23958" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop23960" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop23962" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(47,47,47)"
+         id="stop23964" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(47,47,47)"
+         id="stop23966" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(51,51,51)"
+         id="stop23968" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(51,51,51)"
+         id="stop23970" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(55,55,55)"
+         id="stop23972" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(55,55,55)"
+         id="stop23974" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(59,59,59)"
+         id="stop23976" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(59,59,59)"
+         id="stop23978" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(63,63,63)"
+         id="stop23980" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(63,63,63)"
+         id="stop23982" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(67,67,67)"
+         id="stop23984" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(67,67,67)"
+         id="stop23986" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(71,71,71)"
+         id="stop23988" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(71,71,71)"
+         id="stop23990" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(75,75,75)"
+         id="stop23992" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(75,75,75)"
+         id="stop23994" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop23996" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop23998" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24000" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24002" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24004" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24006" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24008" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24010" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24012" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24014" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24016" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24018" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24020" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24022" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24024" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24026" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24028" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24030" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24032" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24034" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24036" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24038" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24040" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24042" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24044" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24046" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24048" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24050" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24052" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24054" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24056" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24058" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24060" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24062" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24064" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24066" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24068" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24070" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24072" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24074" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24076" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24078" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24080" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24082" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24084" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24086" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24088" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24090" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24092" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24094" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24096" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24098" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24100" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24102" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24104" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24106" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24108" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24110" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24112" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24114" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24116" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24118" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24120" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24122" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24124" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24126" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24128" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24130" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24132" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24134" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24136" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24138" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24140" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24142" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24144" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24146" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24148" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24150" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24152" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24154" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24156" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24158" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24160" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24162" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24164" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24166" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24168" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24170" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(255,255,255)"
+         id="stop24172" />
+    </linearGradient>
+    <linearGradient
+       id="gradient2"
+       x1="11491"
+       y1="4094"
+       x2="11491"
+       y2="4318"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(0,0,0)"
+         id="stop24187" />
+      <stop
+         offset="0.015625"
+         style="stop-color:rgb(3,3,3)"
+         id="stop24189" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(3,3,3)"
+         id="stop24191" />
+      <stop
+         offset="0.03125"
+         style="stop-color:rgb(7,7,7)"
+         id="stop24193" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(7,7,7)"
+         id="stop24195" />
+      <stop
+         offset="0.046875"
+         style="stop-color:rgb(11,11,11)"
+         id="stop24197" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(11,11,11)"
+         id="stop24199" />
+      <stop
+         offset="0.0625"
+         style="stop-color:rgb(15,15,15)"
+         id="stop24201" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(15,15,15)"
+         id="stop24203" />
+      <stop
+         offset="0.078125"
+         style="stop-color:rgb(19,19,19)"
+         id="stop24205" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(19,19,19)"
+         id="stop24207" />
+      <stop
+         offset="0.09375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop24209" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(23,23,23)"
+         id="stop24211" />
+      <stop
+         offset="0.109375"
+         style="stop-color:rgb(27,27,27)"
+         id="stop24213" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(27,27,27)"
+         id="stop24215" />
+      <stop
+         offset="0.125"
+         style="stop-color:rgb(31,31,31)"
+         id="stop24217" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(31,31,31)"
+         id="stop24219" />
+      <stop
+         offset="0.140625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop24221" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(35,35,35)"
+         id="stop24223" />
+      <stop
+         offset="0.15625"
+         style="stop-color:rgb(39,39,39)"
+         id="stop24225" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(39,39,39)"
+         id="stop24227" />
+      <stop
+         offset="0.171875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop24229" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(43,43,43)"
+         id="stop24231" />
+      <stop
+         offset="0.1875"
+         style="stop-color:rgb(47,47,47)"
+         id="stop24233" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(47,47,47)"
+         id="stop24235" />
+      <stop
+         offset="0.203125"
+         style="stop-color:rgb(51,51,51)"
+         id="stop24237" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(51,51,51)"
+         id="stop24239" />
+      <stop
+         offset="0.21875"
+         style="stop-color:rgb(55,55,55)"
+         id="stop24241" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(55,55,55)"
+         id="stop24243" />
+      <stop
+         offset="0.234375"
+         style="stop-color:rgb(59,59,59)"
+         id="stop24245" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(59,59,59)"
+         id="stop24247" />
+      <stop
+         offset="0.25"
+         style="stop-color:rgb(63,63,63)"
+         id="stop24249" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(63,63,63)"
+         id="stop24251" />
+      <stop
+         offset="0.265625"
+         style="stop-color:rgb(67,67,67)"
+         id="stop24253" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(67,67,67)"
+         id="stop24255" />
+      <stop
+         offset="0.28125"
+         style="stop-color:rgb(71,71,71)"
+         id="stop24257" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(71,71,71)"
+         id="stop24259" />
+      <stop
+         offset="0.296875"
+         style="stop-color:rgb(75,75,75)"
+         id="stop24261" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(75,75,75)"
+         id="stop24263" />
+      <stop
+         offset="0.3125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop24265" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(79,79,79)"
+         id="stop24267" />
+      <stop
+         offset="0.328125"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24269" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(83,83,83)"
+         id="stop24271" />
+      <stop
+         offset="0.34375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24273" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(87,87,87)"
+         id="stop24275" />
+      <stop
+         offset="0.359375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24277" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(91,91,91)"
+         id="stop24279" />
+      <stop
+         offset="0.375"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24281" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(95,95,95)"
+         id="stop24283" />
+      <stop
+         offset="0.390625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24285" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(99,99,99)"
+         id="stop24287" />
+      <stop
+         offset="0.40625"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24289" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(103,103,103)"
+         id="stop24291" />
+      <stop
+         offset="0.421875"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24293" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(107,107,107)"
+         id="stop24295" />
+      <stop
+         offset="0.4375"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24297" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(111,111,111)"
+         id="stop24299" />
+      <stop
+         offset="0.453125"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24301" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(115,115,115)"
+         id="stop24303" />
+      <stop
+         offset="0.46875"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24305" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(119,119,119)"
+         id="stop24307" />
+      <stop
+         offset="0.484375"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24309" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(123,123,123)"
+         id="stop24311" />
+      <stop
+         offset="0.5"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24313" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(127,127,127)"
+         id="stop24315" />
+      <stop
+         offset="0.515625"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24317" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(131,131,131)"
+         id="stop24319" />
+      <stop
+         offset="0.53125"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24321" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(135,135,135)"
+         id="stop24323" />
+      <stop
+         offset="0.546875"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24325" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(139,139,139)"
+         id="stop24327" />
+      <stop
+         offset="0.5625"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24329" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(143,143,143)"
+         id="stop24331" />
+      <stop
+         offset="0.578125"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24333" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(147,147,147)"
+         id="stop24335" />
+      <stop
+         offset="0.59375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24337" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(151,151,151)"
+         id="stop24339" />
+      <stop
+         offset="0.609375"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24341" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(155,155,155)"
+         id="stop24343" />
+      <stop
+         offset="0.625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24345" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(159,159,159)"
+         id="stop24347" />
+      <stop
+         offset="0.640625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24349" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(163,163,163)"
+         id="stop24351" />
+      <stop
+         offset="0.65625"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24353" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(167,167,167)"
+         id="stop24355" />
+      <stop
+         offset="0.671875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24357" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(171,171,171)"
+         id="stop24359" />
+      <stop
+         offset="0.6875"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24361" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(175,175,175)"
+         id="stop24363" />
+      <stop
+         offset="0.703125"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24365" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(179,179,179)"
+         id="stop24367" />
+      <stop
+         offset="0.71875"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24369" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(183,183,183)"
+         id="stop24371" />
+      <stop
+         offset="0.734375"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24373" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(187,187,187)"
+         id="stop24375" />
+      <stop
+         offset="0.75"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24377" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(191,191,191)"
+         id="stop24379" />
+      <stop
+         offset="0.765625"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24381" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(195,195,195)"
+         id="stop24383" />
+      <stop
+         offset="0.78125"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24385" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(199,199,199)"
+         id="stop24387" />
+      <stop
+         offset="0.796875"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24389" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(203,203,203)"
+         id="stop24391" />
+      <stop
+         offset="0.8125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24393" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(207,207,207)"
+         id="stop24395" />
+      <stop
+         offset="0.828125"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24397" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(211,211,211)"
+         id="stop24399" />
+      <stop
+         offset="0.84375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24401" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(215,215,215)"
+         id="stop24403" />
+      <stop
+         offset="0.859375"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24405" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(219,219,219)"
+         id="stop24407" />
+      <stop
+         offset="0.875"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24409" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(223,223,223)"
+         id="stop24411" />
+      <stop
+         offset="0.890625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24413" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(227,227,227)"
+         id="stop24415" />
+      <stop
+         offset="0.90625"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24417" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(231,231,231)"
+         id="stop24419" />
+      <stop
+         offset="0.921875"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24421" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(235,235,235)"
+         id="stop24423" />
+      <stop
+         offset="0.9375"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24425" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(239,239,239)"
+         id="stop24427" />
+      <stop
+         offset="0.953125"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24429" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(243,243,243)"
+         id="stop24431" />
+      <stop
+         offset="0.96875"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24433" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(247,247,247)"
+         id="stop24435" />
+      <stop
+         offset="0.984375"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24437" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(251,251,251)"
+         id="stop24439" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(255,255,255)"
+         id="stop24441" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient1"
+       id="linearGradient28447"
+       gradientUnits="userSpaceOnUse"
+       x1="11349"
+       y1="4094"
+       x2="11349"
+       y2="4318" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient2"
+       id="linearGradient28449"
+       gradientUnits="userSpaceOnUse"
+       x1="11491"
+       y1="4094"
+       x2="11491"
+       y2="4318" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-960.27453"
+     inkscape:cy="374.30051"
+     inkscape:document-units="px"
+     inkscape:current-layer="g23911"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     borderlayer="true"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata25204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2159.4356,-421.10461)">
+    <g
+       transform="translate(-4829.3214,-1629.1735)"
+       class="Group"
+       id="g23851">
+      <g
+         class="com.sun.star.drawing.CustomShape"
+         id="g23909">
+        <g
+           id="g23911">
+          <g
+             transform="translate(-11801.743,375.77811)"
+             class="Group"
+             id="g14549">
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14551">
+              <g
+                 id="g14553">
+                <path
+                   style="fill:#ccff99;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 18791,2632 1552,0 0,-957 -1552,0 0,957 z"
+                   id="path14555" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 18791,2632 1552,0 0,-957 -1552,0 0,957"
+                   id="path14557" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14559">
+              <g
+                 id="g14561">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 8,17 13,15 -21,-32 z"
+                   id="path14563" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 8,17 13,15 -21,-32"
+                   id="path14565" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14567">
+              <g
+                 id="g14569">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 21,32 15,8 -36,-40 z"
+                   id="path14571" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 21,32 15,8 -36,-40"
+                   id="path14573" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14575">
+              <g
+                 id="g14577">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 36,40 17,6 -53,-46 z"
+                   id="path14579" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 36,40 17,6 -53,-46"
+                   id="path14581" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14583">
+              <g
+                 id="g14585">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 53,46 18,0 -71,-46 z"
+                   id="path14587" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 53,46 18,0 -71,-46"
+                   id="path14589" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14591">
+              <g
+                 id="g14593">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 71,46 17,-6 -88,-40 z"
+                   id="path14595" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 71,46 17,-6 -88,-40"
+                   id="path14597" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14599">
+              <g
+                 id="g14601">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 88,40 17,-8 -105,-32 z"
+                   id="path14603" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 88,40 17,-8 -105,-32"
+                   id="path14605" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14607">
+              <g
+                 id="g14609">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 105,32 11,-15 -116,-17 z"
+                   id="path14611" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 105,32 11,-15 -116,-17"
+                   id="path14613" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14615">
+              <g
+                 id="g14617">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 116,17 8,-17 -124,0 z"
+                   id="path14619" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 116,17 8,-17 -124,0"
+                   id="path14621" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14623">
+              <g
+                 id="g14625">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 124,0 2,-17 -126,17 z"
+                   id="path14627" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 124,0 2,-17 -126,17"
+                   id="path14629" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14631">
+              <g
+                 id="g14633">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 126,-17 -2,-19 -124,36 z"
+                   id="path14635" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 126,-17 -2,-19 -124,36"
+                   id="path14637" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14639">
+              <g
+                 id="g14641">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 124,-36 -8,-17 -116,53 z"
+                   id="path14643" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 124,-36 -8,-17 -116,53"
+                   id="path14645" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14647">
+              <g
+                 id="g14649">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 116,-52 -11,-15 -105,67 z"
+                   id="path14651" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 116,-52 -11,-15 -105,67"
+                   id="path14653" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14655">
+              <g
+                 id="g14657">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 105,-68 -17,-8 -88,76 z"
+                   id="path14659" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 105,-68 -17,-8 -88,76"
+                   id="path14661" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14663">
+              <g
+                 id="g14665">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 88,-76 -17,-6 -71,82 z"
+                   id="path14667" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 88,-76 -17,-6 -71,82"
+                   id="path14669" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14671">
+              <g
+                 id="g14673">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 71,-82 -18,0 -53,82 z"
+                   id="path14675" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 71,-82 -18,0 -53,82"
+                   id="path14677" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14679">
+              <g
+                 id="g14681">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 53,-82 -17,6 -36,76 z"
+                   id="path14683" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 53,-82 -17,6 -36,76"
+                   id="path14685" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14687">
+              <g
+                 id="g14689">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 36,-76 -15,8 -21,68 z"
+                   id="path14691" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 36,-76 -15,8 -21,68"
+                   id="path14693" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14695">
+              <g
+                 id="g14697">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 21,-67 -13,15 -8,52 z"
+                   id="path14699" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 21,-67 -13,15 -8,52"
+                   id="path14701" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14703">
+              <g
+                 id="g14705">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 8,-53 -8,17 0,36 z"
+                   id="path14707" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 8,-53 -8,17 0,36"
+                   id="path14709" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14711">
+              <g
+                 id="g14713">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 0,-36 -2,19 2,17 z"
+                   id="path14715" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19146,2171 0,-36 -2,19 2,17"
+                   id="path14717" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g14719">
+              <g
+                 id="g14721">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 18911,2154 299,0"
+                   id="path14723" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14725">
+              <g
+                 id="g14727">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -8,-17 -11,-15 19,32 z"
+                   id="path14729" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -8,-17 -11,-15 19,32"
+                   id="path14731" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14733">
+              <g
+                 id="g14735">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -19,-32 -17,-8 36,40 z"
+                   id="path14737" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -19,-32 -17,-8 36,40"
+                   id="path14739" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14741">
+              <g
+                 id="g14743">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -36,-40 -17,-6 53,46 z"
+                   id="path14745" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -36,-40 -17,-6 53,46"
+                   id="path14747" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14749">
+              <g
+                 id="g14751">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -52,-46 -19,0 71,46 z"
+                   id="path14753" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -52,-46 -19,0 71,46"
+                   id="path14755" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14757">
+              <g
+                 id="g14759">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -71,-46 -17,6 88,40 z"
+                   id="path14761" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -71,-46 -17,6 88,40"
+                   id="path14763" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14765">
+              <g
+                 id="g14767">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -88,-40 -17,8 105,32 z"
+                   id="path14769" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -88,-40 -17,8 105,32"
+                   id="path14771" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14773">
+              <g
+                 id="g14775">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -105,-32 -11,15 116,17 z"
+                   id="path14777" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -105,-32 -11,15 116,17"
+                   id="path14779" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14781">
+              <g
+                 id="g14783">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -116,-17 -8,17 124,0 z"
+                   id="path14785" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -116,-17 -8,17 124,0"
+                   id="path14787" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14789">
+              <g
+                 id="g14791">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -124,0 -2,17 126,-17 z"
+                   id="path14793" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -124,0 -2,17 126,-17"
+                   id="path14795" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14797">
+              <g
+                 id="g14799">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -126,17 2,19 124,-36 z"
+                   id="path14801" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -126,17 2,19 124,-36"
+                   id="path14803" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14805">
+              <g
+                 id="g14807">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -124,36 8,17 116,-53 z"
+                   id="path14809" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -124,36 8,17 116,-53"
+                   id="path14811" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14813">
+              <g
+                 id="g14815">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -116,53 11,14 105,-67 z"
+                   id="path14817" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -116,53 11,14 105,-67"
+                   id="path14819" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14821">
+              <g
+                 id="g14823">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -105,67 17,9 88,-76 z"
+                   id="path14825" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -105,67 17,9 88,-76"
+                   id="path14827" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14829">
+              <g
+                 id="g14831">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -88,76 17,6 71,-82 z"
+                   id="path14833" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -88,76 17,6 71,-82"
+                   id="path14835" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14837">
+              <g
+                 id="g14839">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -71,82 19,0 52,-82 z"
+                   id="path14841" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -71,82 19,0 52,-82"
+                   id="path14843" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14845">
+              <g
+                 id="g14847">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -53,82 17,-6 36,-76 z"
+                   id="path14849" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -53,82 17,-6 36,-76"
+                   id="path14851" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14853">
+              <g
+                 id="g14855">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -36,76 17,-9 19,-67 z"
+                   id="path14857" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -36,76 17,-9 19,-67"
+                   id="path14859" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14861">
+              <g
+                 id="g14863">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -19,67 11,-14 8,-53 z"
+                   id="path14865" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,1837 -19,67 11,-14 8,-53"
+                   id="path14867" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14869">
+              <g
+                 id="g14871">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -8,53 8,-17 0,-36 z"
+                   id="path14873" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 -8,53 8,-17 0,-36"
+                   id="path14875" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14877">
+              <g
+                 id="g14879">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 0,36 2,-19 -2,-17 z"
+                   id="path14881" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,1837 0,36 2,-19 -2,-17"
+                   id="path14883" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g14885">
+              <g
+                 id="g14887">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19926,1854 299,0"
+                   id="path14889" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14891">
+              <g
+                 id="g14893">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2136 -8,-17 -11,-15 19,32 z"
+                   id="path14895" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2136 -8,-17 -11,-15 19,32"
+                   id="path14897" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14899">
+              <g
+                 id="g14901">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -19,-32 -17,-8 36,40 z"
+                   id="path14903" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -19,-32 -17,-8 36,40"
+                   id="path14905" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14907">
+              <g
+                 id="g14909">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -36,-40 -17,-6 53,46 z"
+                   id="path14911" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -36,-40 -17,-6 53,46"
+                   id="path14913" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14915">
+              <g
+                 id="g14917">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -52,-46 -19,0 71,46 z"
+                   id="path14919" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -52,-46 -19,0 71,46"
+                   id="path14921" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14923">
+              <g
+                 id="g14925">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -71,-46 -17,6 88,40 z"
+                   id="path14927" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -71,-46 -17,6 88,40"
+                   id="path14929" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14931">
+              <g
+                 id="g14933">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -88,-40 -17,8 105,32 z"
+                   id="path14935" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -88,-40 -17,8 105,32"
+                   id="path14937" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14939">
+              <g
+                 id="g14941">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2136 -105,-32 -11,15 116,17 z"
+                   id="path14943" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2136 -105,-32 -11,15 116,17"
+                   id="path14945" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14947">
+              <g
+                 id="g14949">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -116,-17 -8,17 124,0 z"
+                   id="path14951" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -116,-17 -8,17 124,0"
+                   id="path14953" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14955">
+              <g
+                 id="g14957">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -124,0 -2,19 126,-19 z"
+                   id="path14959" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -124,0 -2,19 126,-19"
+                   id="path14961" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14963">
+              <g
+                 id="g14965">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -126,19 2,17 124,-36 z"
+                   id="path14967" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -126,19 2,17 124,-36"
+                   id="path14969" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14971">
+              <g
+                 id="g14973">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -124,36 8,17 116,-53 z"
+                   id="path14975" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -124,36 8,17 116,-53"
+                   id="path14977" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14979">
+              <g
+                 id="g14981">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -116,53 11,14 105,-67 z"
+                   id="path14983" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -116,53 11,14 105,-67"
+                   id="path14985" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14987">
+              <g
+                 id="g14989">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -105,67 17,9 88,-76 z"
+                   id="path14991" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -105,67 17,9 88,-76"
+                   id="path14993" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g14995">
+              <g
+                 id="g14997">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -88,76 17,6 71,-82 z"
+                   id="path14999" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -88,76 17,6 71,-82"
+                   id="path15001" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15003">
+              <g
+                 id="g15005">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -71,82 19,0 52,-82 z"
+                   id="path15007" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -71,82 19,0 52,-82"
+                   id="path15009" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15011">
+              <g
+                 id="g15013">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -53,82 17,-6 36,-76 z"
+                   id="path15015" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -53,82 17,-6 36,-76"
+                   id="path15017" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15019">
+              <g
+                 id="g15021">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -36,76 17,-9 19,-67 z"
+                   id="path15023" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -36,76 17,-9 19,-67"
+                   id="path15025" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15027">
+              <g
+                 id="g15029">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -19,67 11,-14 8,-53 z"
+                   id="path15031" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2135 -19,67 11,-14 8,-53"
+                   id="path15033" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15035">
+              <g
+                 id="g15037">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -8,53 8,-17 0,-36 z"
+                   id="path15039" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 -8,53 8,-17 0,-36"
+                   id="path15041" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15043">
+              <g
+                 id="g15045">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 0,36 2,-17 -2,-19 z"
+                   id="path15047" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2135 0,36 2,-17 -2,-19"
+                   id="path15049" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g15051">
+              <g
+                 id="g15053">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19926,2154 299,0"
+                   id="path15055" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15057">
+              <g
+                 id="g15059">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -8,-17 -11,-15 19,32 z"
+                   id="path15061" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -8,-17 -11,-15 19,32"
+                   id="path15063" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15065">
+              <g
+                 id="g15067">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -19,-32 -17,-8 36,40 z"
+                   id="path15069" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -19,-32 -17,-8 36,40"
+                   id="path15071" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15073">
+              <g
+                 id="g15075">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -36,-40 -17,-6 53,46 z"
+                   id="path15077" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -36,-40 -17,-6 53,46"
+                   id="path15079" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15081">
+              <g
+                 id="g15083">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -52,-46 -19,0 71,46 z"
+                   id="path15085" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -52,-46 -19,0 71,46"
+                   id="path15087" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15089">
+              <g
+                 id="g15091">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -71,-46 -17,6 88,40 z"
+                   id="path15093" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -71,-46 -17,6 88,40"
+                   id="path15095" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15097">
+              <g
+                 id="g15099">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -88,-40 -17,8 105,32 z"
+                   id="path15101" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -88,-40 -17,8 105,32"
+                   id="path15103" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15105">
+              <g
+                 id="g15107">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -105,-32 -11,15 116,17 z"
+                   id="path15109" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -105,-32 -11,15 116,17"
+                   id="path15111" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15113">
+              <g
+                 id="g15115">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -116,-17 -8,17 124,0 z"
+                   id="path15117" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -116,-17 -8,17 124,0"
+                   id="path15119" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15121">
+              <g
+                 id="g15123">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -124,0 -2,19 126,-19 z"
+                   id="path15125" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -124,0 -2,19 126,-19"
+                   id="path15127" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15129">
+              <g
+                 id="g15131">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -126,19 2,17 124,-36 z"
+                   id="path15133" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -126,19 2,17 124,-36"
+                   id="path15135" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15137">
+              <g
+                 id="g15139">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -124,36 8,17 116,-53 z"
+                   id="path15141" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -124,36 8,17 116,-53"
+                   id="path15143" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15145">
+              <g
+                 id="g15147">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -116,53 11,14 105,-67 z"
+                   id="path15149" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -116,53 11,14 105,-67"
+                   id="path15151" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15153">
+              <g
+                 id="g15155">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -105,67 17,9 88,-76 z"
+                   id="path15157" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -105,67 17,9 88,-76"
+                   id="path15159" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15161">
+              <g
+                 id="g15163">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -88,76 17,6 71,-82 z"
+                   id="path15165" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -88,76 17,6 71,-82"
+                   id="path15167" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15169">
+              <g
+                 id="g15171">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -71,82 19,0 52,-82 z"
+                   id="path15173" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -71,82 19,0 52,-82"
+                   id="path15175" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15177">
+              <g
+                 id="g15179">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -53,82 17,-6 36,-76 z"
+                   id="path15181" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -53,82 17,-6 36,-76"
+                   id="path15183" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15185">
+              <g
+                 id="g15187">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -36,76 17,-9 19,-67 z"
+                   id="path15189" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -36,76 17,-9 19,-67"
+                   id="path15191" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15193">
+              <g
+                 id="g15195">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -19,67 11,-14 8,-53 z"
+                   id="path15197" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19988,2434 -19,67 11,-14 8,-53"
+                   id="path15199" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15201">
+              <g
+                 id="g15203">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -8,53 8,-17 0,-36 z"
+                   id="path15205" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 -8,53 8,-17 0,-36"
+                   id="path15207" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.PolyPolygonShape"
+               id="g15209">
+              <g
+                 id="g15211">
+                <path
+                   style="fill:#0f0f0f;stroke:none"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 0,36 2,-17 -2,-19 z"
+                   id="path15213" />
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19987,2434 0,36 2,-17 -2,-19"
+                   id="path15215" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g15217">
+              <g
+                 id="g15219">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19926,2453 299,0"
+                   id="path15221" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.LineShape"
+               id="g15223">
+              <g
+                 id="g15225">
+                <path
+                   style="fill:none;stroke:#0f0f0f"
+                   inkscape:connector-curvature="0"
+                   d="m 19210,2155 717,-301"
+                   id="path15227" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
